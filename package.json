@@ -20,5 +20,9 @@
   "homepage": "https://github.com/Shaygan94/pg6301-exercice-05#readme",
   "devDependencies": {
     "vite": "^7.1.5"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
